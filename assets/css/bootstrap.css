@@ -569,6 +569,7 @@ pre code {
 
 .container {
   width: 100%;
+  padding-top: 45px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -605,6 +606,7 @@ pre code {
 .container-lg,
 .container-xl {
   width: 100%;
+  padding-top: 45px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -739,6 +741,7 @@ pre code {
 .col-xl-auto {
   position: relative;
   width: 100%;
+  padding-top: 45px;
   padding-right: 15px;
   padding-left: 15px;
 }
@@ -6836,7 +6839,7 @@ a.close.disabled {
   bottom: 20px;
   left: 15%;
   z-index: 10;
-  padding-top: 20px;
+  padding-top: 45px;
   padding-bottom: 20px;
   color: #fff;
   text-align: center;

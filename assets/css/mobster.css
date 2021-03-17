@@ -1608,7 +1608,7 @@ hr {
 
 .btn-dark {
   color: #ffffff;
-  background-color: #383340;
+  background-color: #000000;
   border-color: transparent !important;
 }
 
@@ -1634,7 +1634,7 @@ hr {
 .btn-dark:not(:disabled):not(.disabled).active,
 .show>.btn-dark.dropdown-toggle {
   color: #ffffff;
-  background-color: #383340;
+  background-color: #000000;
   box-shadow: none;
 }
 
@@ -1893,7 +1893,7 @@ hr {
 
 .btn-outline-dark:hover {
   color: #fff;
-  background-color: #383340;
+  background-color: #000000;
   border-color: #383340;
   box-shadow: 0 4px 12px rgba(57, 52, 65, 0.3);
 }
@@ -1910,7 +1910,7 @@ hr {
 .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active,
 .show > .btn-outline-dark.dropdown-toggle {
   color: #fff;
-  background-color: #383340;
+  background-color: #000000;
   border-color: #383340;
 }
 
@@ -2053,7 +2053,7 @@ hr {
 }
 
 .breadcrumb-dark {
-  background-color: #383340;
+  background-color: #000000;
 }
 
 .breadcrumb-dark .breadcrumb-item + .breadcrumb-item::before {
@@ -2094,7 +2094,7 @@ hr {
 }
 
 .navbar-expand-lg.navbar-floating.navbar-dark {
-  background-color: #383340;
+  background-color: #000000;
   box-shadow: 0 1px 6px rgba(56, 51, 64, 0.1);
 }
 
